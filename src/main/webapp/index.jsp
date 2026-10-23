@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>MyWebApp</title>
-</head>
 <body>
-    <h1>Welcome to MyWebApp!</h1>
-</body>
+<h2>Welcome Kamesh!!</h2>
+<h2>Automation!!</h2>
+</body
 </html>
